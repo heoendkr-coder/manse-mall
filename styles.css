@@ -24,3 +24,4 @@ body{color:#18253b}.site-header{border-top:4px solid #142f58;background:#fffffff
 @media(max-width:600px){.hero-description,.hero-link{display:none}.hero{padding-block:20px}.hero h1{margin-top:10px}.section-heading>div>p:last-child{font-size:14px}.catalog-section{padding-top:28px}.affiliate-notice{margin-top:18px}}
 
 button{font:inherit}button:disabled{pointer-events:none} .purchase-link{align-items:center;font-weight:650} .guide-steps{list-style:none} .product-image-link img{max-width:100%}
+.affiliate-notice.ad-top{margin:0;border:0;border-bottom:1px solid #dce4ef;border-left:0;padding:9px max(16px,calc((100% - 1120px)/2));display:flex;gap:10px;align-items:baseline;font-size:13px}.affiliate-notice.ad-top p{margin:0;line-height:1.5}@media(max-width:600px){.affiliate-notice.ad-top{display:block;font-size:12px}}
